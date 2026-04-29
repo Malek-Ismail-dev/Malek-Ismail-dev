@@ -1,48 +1,70 @@
-## Hey 👋, I'm Malek Ismail!
+# Hey 👋, I'm Malek Ismail
 
-<a href='https://www.linkedin.com/in/YOUR-LINKEDIN/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+![Image](https://images.openai.com/static-rsc-4/eWrtyd3QsdMhwyxvwkqEBJH4XZSK9kLX6Gi5AJHsw3eVIqUv78QaPCEyccQ8JAF4p5dHmv8BRkOAlFHAoszI4SzdkFB9k-Y8R7vbMRyxNmAhAKqGAuSrBWZ-sG76djjll_qOKdMIOw8Up6janQFAn_ztYoCp4Jub4D4DTHNhiZzNXTX-QXcJsGPQsfhgLfxt?purpose=fullsize)
 
-<br/>
-<br/>
+![Image](https://images.openai.com/static-rsc-4/PbGLMJj2jU3leNSLr25xpXvqtpjP_nRmC8HzWCb3mWk95kPzM-wIlypgS0gbaEsEQ_wZyEFco3rwPVNIBrs7TXS3D6E1puqlga6cOU8NSkpTP9eL3QtDJkoejjYpORXa8K9eatEVXtzEMz5mys9Lv9UrXDn0wyfL-FNq0SZOh5yNy8T59BUQ9YMhpXHGYu2R?purpose=fullsize)
 
-I am a C++ developer 💻 currently focusing on improving my programming skills and building strong problem-solving abilities.
+![Image](https://images.openai.com/static-rsc-4/CTKkbApqMhOAk4Den0fifC7wnfrIUhOiVXWnYxnR_wdePovbuh0oB9uQ7juDbQ4ZXZ0SWtfdabWoy9D4j2ImY4JiG79YpS4IF5aFNxbLv4EJN8Woiier4kXdS4wqbrWeEG8uIq1Dc45JO-AKWElT-H6g7b7ROrZOovEbwMie7HdrYqc--ZKc63hyoPO5mH64?purpose=fullsize)
 
-I have a good understanding of **C++ basics** and I am currently learning **OOP concepts** to improve the way I design and structure my programs.
+![Image](https://images.openai.com/static-rsc-4/YEohTTaepkJTbQ3NXhXetynuBOBwYi5WXWUCHPtGAh85_Kz9Cfct-4rmdB2MZW5hkcCgq7KuzXclifJJY33uHg5MTMRI7caNdwqRyOi9820AeKgGsGama-o0fhOgxYLzPFvz1WjvSACyiEcgK17Mw3xch2VZ9AwrPrfgMDq114QFzjH0hkkweUkrfh5IcbH4?purpose=fullsize)
 
-My main goal is to become a strong **Backend Developer** in the future by mastering programming fundamentals step by step.
+![Image](https://images.openai.com/static-rsc-4/Zt2rI16js9aLBf7DfXT0H_Bp98fvtYEbrCS27jVdemnMg43wfXYwlxCCD0knwXxUhDwVoFZw4Oh5Ld8pu9Xas18_OnRw2Z9ozrGTQgOM3pkCQKi8ZLLzIPAImITZHWWk9MXNVnoCONSmd6SAjjBMepE1kzYJypqX6mLoCE4sGB13BKODEn_8t3pxS0D2qoXX?purpose=fullsize)
 
-<br/>
-<br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-### 🧐 More About Me:
-
-* 💻   Learning and improving in **C++ programming**
-* 🧠   Currently learning **Object-Oriented Programming (OOP)**
-* 🛠️   Building simple **console applications**
-* 📊   Practicing **problem solving**
-* 🚀   Interested in becoming a **Backend Developer**
-* 📚   Focused on learning step by step, not rushing concepts
-* 🤝   Open to learning and collaborating on beginner C++ projects
-* 💬   Ask me about my learning journey in C++
-
-<br>
-
-### 🔨 Languages and Tools:
-
-<a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a> <a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
-
-<br>
-<br>
-
-### 🛠️ My Projects:
-
-* 🧮 Basic C++ Console Programs
-* 🎯 Problem Solving Exercises
-* 📚 Learning-based practice projects
-* 🚧 More projects coming as I improve
+![Image](https://images.openai.com/static-rsc-4/wCLLfc_lVoeldBW5ZkZya0BHcs7Xhk7uvGPmnQLfkxDJwaNXSDrep4M6k6-J2MqSyUd5S1uzByx1NxTb4xPOJVXfCXZ8IpSVlFW7C81bMPvIS9E8jJh-CVFpESODcMaxoZTUejkCviU-0a2ZAOTy8MEJBLDvvNIEdHFDQb6SBfTDyF5FhjIE8lJ2qpFAeRSS?purpose=fullsize)
 
 ---
 
-⭐ Learning step by step and building strong foundations in programming.
+## 💻 C++ Developer | Problem Solver
+
+I am a **C++ developer** with strong skills in **problem solving and algorithmic thinking**.
+
+I spend most of my time improving my ability to break down problems and write efficient solutions using C++.
+
+I have a solid understanding of C++ fundamentals and I am currently improving my knowledge of **Object-Oriented Programming (OOP)**.
+
+My goal is to grow into a strong **Backend Developer using .NET technologies**.
+
+---
+
+## 🧠 What I Focus On
+
+* 💻 Strong in **C++ fundamentals**
+* 🧩 Good experience in **Problem Solving & Algorithms**
+* 🏗️ Currently learning **OOP concepts**
+* 🛠️ Building **simple C++ console applications**
+* 🚀 Preparing for **Backend Development (.NET path)**
+
+---
+
+## 🔧 Tech Stack
+
+<a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a> <a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+
+<br><br>
+
+---
+
+## 📌 Projects
+
+* 🧮 Basic C++ problem-solving programs
+* 🎮 Simple console applications
+* 🧠 Logic-based coding exercises
+* 🚧 Small projects while learning and practicing
+
+---
+
+## 🎯 Career Goal
+
+Focused on building strong fundamentals in programming and moving toward:
+
+👉 Backend Development using **.NET**
+
+---
+
+## ⚡ Mindset
+
+> “Strong problem solving is the foundation of every great developer.”
+
+---
+
+⭐ Always improving my problem solving and coding skills step by step.

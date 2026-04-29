@@ -5,10 +5,11 @@
 <br/>
 <br/>
 
-I am a passionate Backend Developer in progress 🚀 with a strong foundation in C++.
-I focus on writing clean, efficient code and building solid problem-solving skills.
+I am a C++ developer 💻 currently focusing on improving my programming skills and building strong problem-solving abilities.
 
-Currently, I’m expanding my knowledge toward **.NET Backend Development** and aiming to build scalable and real-world applications.
+I have a good understanding of **C++ basics** and I am currently learning **OOP concepts** to improve the way I design and structure my programs.
+
+My main goal is to become a strong **Backend Developer** in the future by mastering programming fundamentals step by step.
 
 <br/>
 <br/>
@@ -17,37 +18,31 @@ Currently, I’m expanding my knowledge toward **.NET Backend Development** and 
 
 ### 🧐 More About Me:
 
-* 💻   Strong experience with **C++** (problem solving, OOP, algorithms)
-* 🚀   Currently learning **C# & .NET Backend Development**
-* 🧠   Interested in **Data Structures & Algorithms**
-* 🛠️   I build console applications and real logic-based projects
-* 📚   Continuously improving my coding and software design skills
-* 🤝   Open to collaboration on backend or C++ projects
-* 💬   Ask me about C++, problem solving, or backend basics
-* 📫   Reach me on LinkedIn
+* 💻   Learning and improving in **C++ programming**
+* 🧠   Currently learning **Object-Oriented Programming (OOP)**
+* 🛠️   Building simple **console applications**
+* 📊   Practicing **problem solving**
+* 🚀   Interested in becoming a **Backend Developer**
+* 📚   Focused on learning step by step, not rushing concepts
+* 🤝   Open to learning and collaborating on beginner C++ projects
+* 💬   Ask me about my learning journey in C++
 
 <br>
 
 ### 🔨 Languages and Tools:
 
-<a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a> <a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a> <a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></a> <a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+<a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a> <a href="#"><img align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
 
 <br>
 <br>
 
-### 📊 Github Stats
+### 🛠️ My Projects:
 
-![Stats Overview](https://github-stats-alpha.vercel.app/api?username=YOUR-USERNAME\&cc=0D1117\&tc=ffffff\&ic=58A6FF\&bc=0D1117)
-![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=YOUR-USERNAME\&layout=compact\&cc=0D1117\&tc=ffffff\&ic=58A6FF\&bc=0D1117)
-
-<br>
-
-### 🛠️ My Projects
-
-* 🔹 C++ Problem Solving Projects
-* 🔹 Console Applications (Games / Systems)
-* 🔹 Upcoming: .NET Backend Projects
+* 🧮 Basic C++ Console Programs
+* 🎯 Problem Solving Exercises
+* 📚 Learning-based practice projects
+* 🚧 More projects coming as I improve
 
 ---
 
-⭐ Always learning, building, and improving.
+⭐ Learning step by step and building strong foundations in programming.

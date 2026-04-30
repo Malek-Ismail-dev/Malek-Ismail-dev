@@ -26,10 +26,12 @@ My long-term goal is to become a **Backend Developer using .NET technologies**.
 
 ## 🔧 Tech Stack
 
-* C++
-* Git & GitHub 
-
----
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
+</p>
 
 ## 📌 Projects
 

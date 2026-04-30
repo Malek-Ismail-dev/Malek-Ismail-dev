@@ -1,7 +1,5 @@
 # Hey 👋, I'm Malek Ismail
 
-image_group{"layout":"carousel","aspect_ratio":"1:1","query":["C++ programming dark theme code screen aesthetic"],"num_per_query":1}
-
 ---
 
 ## 💻 C++ Developer | Problem Solver

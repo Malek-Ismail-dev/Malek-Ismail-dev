@@ -35,11 +35,9 @@ My long-term goal is to become a **Backend Developer using .NET technologies**.
 
 ## 📌 Projects
 
-* Basic C++ problem solving programs
-* Simple console applications
-* Logic-based coding exercises
-
----
+* 🧮 Basic C++ problem solving programs
+* 🎮 Simple console-based applications
+* 🧠 Logic and algorithm practice exercise
 
 ## 🎯 Career Goal
 

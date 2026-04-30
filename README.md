@@ -27,7 +27,7 @@ My long-term goal is to become a **Backend Developer using .NET technologies**.
 ## 🔧 Tech Stack
 
 * C++
-* Git
+* Git & GitHub 
 
 ---
 

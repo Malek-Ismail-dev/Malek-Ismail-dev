@@ -33,12 +33,6 @@ My long-term goal is to become a **Backend Developer using .NET technologies**.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
 </p>
 
-## 📌 Projects
-
-* 🧮 Basic C++ problem solving programs
-* 🎮 Simple console-based applications
-* 🧠 Logic and algorithm practice exercise
-
 ## 🎯 Career Goal
 
 Building strong programming fundamentals and moving toward:
